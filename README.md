@@ -35,7 +35,7 @@ Install
     
          $ cd ~
          $ git init
-         $ git remote add dotfiles_repo https://github.com/SivaCn/linux.dot.files.git
+         $ git remote add dotfiles_repo https://github.com/lordflyingpoo/linux.dot.files.git
          $ git fetch dotfiles_repo
          
          These commands will link to the repo, and make ready to go, before proceeding
